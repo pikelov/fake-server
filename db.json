@@ -1,13 +1,13 @@
 {"books" :[
   {
-    "genre": "history",
+    "genre": 1,
     "author": "Chinua Achebe",
     "country": "Nigeria",
     "title": "Things Fall Apart",
     "year": 1958
   },
   {
-    "genre": "fairy-tales",
+    "genre": 2,
     "author": "Hans Christian Andersen",
     "country": "Denmark",
     "title": "Fairy tales",
@@ -21,18 +21,23 @@
     "year": 1315
   },
   {
-    "genre": "history",
+    "genre": 1,
     "author": "Unknown",
     "country": "Sumer and Akkadian Empire",
     "title": "The Epic Of Gilgamesh",
     "year": -1700
   },
   {
-    "genre": "fairy-tales",
+    "genre": 2,
     "author": "Unknown",
     "country": "India/Iran/Iraq/Egypt/Tajikistan",
     "title": "One Thousand and One Nights",
     "year": 1200
   }
+],
+
+"genres": [
+  { "id": 1, "name": "history"},
+  { "id": 2, "name": "fairy-tales" }
 ]
 }
