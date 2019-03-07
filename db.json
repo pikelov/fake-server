@@ -1,5 +1,9 @@
 {"books" :[
-  
+  {"author": "wer",
+    "genreId": 1,
+    "id": 1,
+    "price": 3,
+    "title": "rew"}
 ],
 
 "genres": [
