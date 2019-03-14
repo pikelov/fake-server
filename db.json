@@ -1,9 +1,18 @@
 {"books" :[
-  {"author": "wer",
-    "genreId": 1,
-    "id": 1,
-    "price": 3,
-    "title": "rew"}
+  {
+    "genre": 1,
+    "author": "Chinua Achebe",
+    "country": "Nigeria",
+    "title": "Things Fall Apart",
+    "year": 1958
+  },
+  {
+    "genre": 2,
+    "author": "Hans Christian Andersen",
+    "country": "Denmark",
+    "title": "Fairy tales",
+    "year": 1836
+  }
 ],
 
 "genres": [
