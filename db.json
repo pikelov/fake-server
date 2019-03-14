@@ -31,7 +31,8 @@
 
 "genres": [
   {
-
+    "id": 199,
+    "name": "classica"
   }
 ]
 }
