@@ -12,6 +12,20 @@
     "price": 400,
     "title": "Fairy tales",
     "id": 2
+  },
+  {
+    "genreId": 1,
+    "author": "James Hetfild",
+    "price": 3230,
+    "title": "Things Fall Apart",
+    "id": 3
+  },
+  {
+    "genreId": 3,
+    "author": "Hans Zimermann",
+    "price": 4000,
+    "title": "Fairy sales",
+    "id": 4
   }
 ],
 
