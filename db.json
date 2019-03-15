@@ -32,7 +32,15 @@
 "genres": [
   {
     "id": 199,
-    "name": "classica"
+    "name": "classic"
+  },
+  {
+    "id": 198,
+    "name": "history"
+  },
+  {
+    "id": 197,
+    "name": "Sci-fi"
   }
 ]
 }
